@@ -1,0 +1,2514 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9033691681771783903
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  guid: 17574b5b-7bd9-43bf-a3d7-583c79c84456
+  initialGuid: 17574b5b-7bd9-43bf-a3d7-583c79c84456
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: English
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 8
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/English_language
+  TTSLanguage: 0
+  ISO2ID: en
+  ISO3ID: eng
+  Name: English
+  GeneticClass: Indo-European language family,
+  TypologicalClass: Proto-Germanic
+--- !u!114 &-8906374806576381737
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200c6ab2da595124ea2821ef68a017d1, type: 3}
+  m_Name: SaveLoadModule
+  m_EditorClassIdentifier: 
+  dataLibrary: {fileID: 11400000}
+--- !u!114 &-7801855125855122731
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: Arabic
+  m_EditorClassIdentifier: 
+  guid: d0eb3eaf-9164-4279-b618-df5d4a1db328
+  initialGuid: d0eb3eaf-9164-4279-b618-df5d4a1db328
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Arabic
+  description: The Arabic Language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 6
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/Arabic
+  TTSLanguage: 0
+  ISO2ID: ar
+  ISO3ID: ara
+  Name: Arabic
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &-7722609558235377397
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  guid: 4cb0a4e0-8f95-4b36-93d9-df1ed953b946
+  initialGuid: 4cb0a4e0-8f95-4b36-93d9-df1ed953b946
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: French
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 4
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: French
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0641\u0631\u0646\u0633\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: "Franz\xF6sisch"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "Franc\xE9s"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: "Fran\xE7ais"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: francese
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: "Franc\xEAs"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0641\u0631\u0627\u0646\u0633\u0648\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0641\u0631\u0627\u0646\u0633\u0648\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &-7447101192454827217
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12538dea57d594a4c9c875422e1b2c7f, type: 3}
+  m_Name: SettingsModule
+  m_EditorClassIdentifier: 
+--- !u!114 &-6843659952921439456
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1333b09ea52ffa24a91774c52fbb27c5, type: 3}
+  m_Name: LocalizationManager
+  m_EditorClassIdentifier: 
+  guid: e95d271f-9ebc-4264-a458-d75422b1eeac
+  initialGuid: e95d271f-9ebc-4264-a458-d75422b1eeac
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: LocalizationManager
+  description: 
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 0
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  useManagerFromOtherLibrary: 0
+  fromOtherLibrary: {fileID: 0}
+  otherLocalizationManager: {fileID: 0}
+  useSystemLanguage: 1
+  languages:
+  - language: English
+    iso: en
+  - language: Arabic
+    iso: ar
+  - language: German
+    iso: de
+  - language: Spanish
+    iso: es
+  - language: French
+    iso: fr
+  - language: Italian
+    iso: it
+  - language: Portuguese
+    iso: pt
+  - language: Persian
+    iso: fa
+  - language: Pashto
+    iso: ps
+  OnLanguageChange: {fileID: 0}
+  _defaultLanguage: English
+  currentLanguage: English
+--- !u!114 &-6236970398516791076
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: Persian
+  m_EditorClassIdentifier: 
+  guid: a0fdf1a9-46d3-4dfd-8d2b-327e8bc7e86f
+  initialGuid: a0fdf1a9-46d3-4dfd-8d2b-327e8bc7e86f
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Persian
+  description: The Persian language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 1
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: 6246031270175906452}
+  BaseLanguage: English
+  Name: Persian
+  IsSpeakable: 1
+  TTSVoiceName: Amir
+  speakerID: 0
+--- !u!114 &-5089485957455121860
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  guid: 81c8dec7-6b95-43cf-8e01-7fd36ef81e00
+  initialGuid: 81c8dec7-6b95-43cf-8e01-7fd36ef81e00
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: French
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 4
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/French_language
+  TTSLanguage: 1
+  ISO2ID: fr
+  ISO3ID: fra
+  Name: French
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &-4861070701744114833
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  guid: db047e0f-a0c9-47f8-9375-1b559c1c27c7
+  initialGuid: db047e0f-a0c9-47f8-9375-1b559c1c27c7
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: French
+  description: The spanish language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 4
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: -5089485957455121860}
+  BaseLanguage: English
+  Name: French
+  IsSpeakable: 1
+  TTSVoiceName: Tom
+  speakerID: 0
+--- !u!114 &-4595802196355766105
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Italian
+  m_EditorClassIdentifier: 
+  guid: 75d4057e-ca6e-459d-9832-cbe74dc156a4
+  initialGuid: 75d4057e-ca6e-459d-9832-cbe74dc156a4
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Italian
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 3
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Italian
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0627\u064A\u0637\u0627\u0644\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Italienisch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: italiano
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: italien
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: Italiano
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: italiano
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0627\u06CC\u062A\u0627\u0644\u06CC\u0627\u06CC\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0627\u06CC\u067C\u0627\u0644\u06CC\u0648\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &-4448311885300374001
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c9ca9fcc8f73334fbd4f33c3fb7f34b, type: 3}
+  m_Name: HelpModule
+  m_EditorClassIdentifier: 
+  welcomeWindow: {fileID: 0}
+--- !u!114 &-4049130021392015495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df0fd67eb910e83429ab00e1ef37014a, type: 3}
+  m_Name: RuntimeLibrary
+  m_EditorClassIdentifier: 
+  themeTemplate: {fileID: 0}
+  isInitialized: 0
+  data:
+    _objectList: []
+    _favoriteList: []
+  copyData:
+    _objectList: []
+    _favoriteList: []
+  firstColumnWidth: 200
+  secondColumnWidth: 240
+  selectedDataView: 0
+  runtimeLibrary: {fileID: 0}
+  runtimeLibraryGuid: 
+  runtimeLibraryFolderPath: 
+  initialLibrary: {fileID: 11400000}
+  selectedDataObject: {fileID: 0}
+  modules: []
+  existingNamespaces:
+  - namespaceName: Databrain.Localization
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: LocalizationManager
+      typeAssemblyQualifiedName: Databrain.Localization.LocalizationManager, Databrain.Localization,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: Localization
+      typeAssemblyQualifiedName: Databrain.Localization.Localization, Databrain.Localization,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Examples
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: EnemyDataDemo
+      typeAssemblyQualifiedName: Databrain.Examples.EnemyDataDemo, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: AgentAIData
+      typeAssemblyQualifiedName: Databrain.Examples.AgentAIData, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: SaveLoadDemoDataBase
+      typeAssemblyQualifiedName: Databrain.Examples.SaveLoadDemoDataBase, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: MyOdinDataObject
+      typeAssemblyQualifiedName: Databrain.Examples.MyOdinDataObject, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: SaveLoadDemoData
+      typeAssemblyQualifiedName: Databrain.Examples.SaveLoadDemoData, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: AdvancedDemoDataBase
+      typeAssemblyQualifiedName: Databrain.Examples.AdvancedDemoDataBase, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Logic
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: GraphData
+      typeAssemblyQualifiedName: Databrain.Logic.GraphData, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: LogicGraph
+      typeAssemblyQualifiedName: Databrain.Logic.LogicGraph, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: SceneComponent
+      typeAssemblyQualifiedName: Databrain.Logic.SceneComponent, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: PlayerComponents
+      typeAssemblyQualifiedName: Databrain.Logic.PlayerComponents, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Events
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: BlackboardEvent
+      typeAssemblyQualifiedName: Databrain.Events.BlackboardEvent, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: DatabrainEvent
+      typeAssemblyQualifiedName: Databrain.Events.DatabrainEvent, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: LocalizationEvents
+      typeAssemblyQualifiedName: Databrain.Events.LocalizationEvents, Databrain.Localization,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: ExampleEvents
+      typeAssemblyQualifiedName: Databrain.Events.ExampleEvents, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: DatabrainGenericEvent`1
+      typeAssemblyQualifiedName: Databrain.Events.DatabrainGenericEvent`1, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: CJacks.Language
+    foldout: 1
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: LanguageMD
+      typeAssemblyQualifiedName: CJacks.Language.LanguageMD, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: LanguageOD
+      typeAssemblyQualifiedName: CJacks.Language.LanguageOD, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Blackboard
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: BooleanVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.BooleanVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: FloatVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.FloatVariable, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: StringVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.StringVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: IntegerList
+      typeAssemblyQualifiedName: Databrain.Blackboard.IntegerList, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: Vector2Variable
+      typeAssemblyQualifiedName: Databrain.Blackboard.Vector2Variable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: FloatList
+      typeAssemblyQualifiedName: Databrain.Blackboard.FloatList, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: BlackboardVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.BlackboardVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: BlackboardGenericVariable`1
+      typeAssemblyQualifiedName: Databrain.Blackboard.BlackboardGenericVariable`1,
+        Databrain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: IntegerVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.IntegerVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: PrefabVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.PrefabVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: Vector3Variable
+      typeAssemblyQualifiedName: Databrain.Blackboard.Vector3Variable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  isRuntimeContainer: 1
+  useXOREncryption: 0
+  encryptionKey: 0
+  jsonFormatting: 0
+  hideDataObjectsByDefault: 1
+  tags: []
+  hierarchyTemplate: {fileID: 0}
+--- !u!114 &-3875600538031117007
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: Spanish
+  m_EditorClassIdentifier: 
+  guid: 341a6c98-7155-4829-a778-46b2f0b73fba
+  initialGuid: 341a6c98-7155-4829-a778-46b2f0b73fba
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Spanish
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 7
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/Spanish_language
+  TTSLanguage: 1
+  ISO2ID: es
+  ISO3ID: spa
+  Name: Spanish
+  GeneticClass: ' Indo-European'
+  TypologicalClass: 
+--- !u!114 &-3674339716439428367
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: Italian
+  m_EditorClassIdentifier: 
+  guid: cc33403a-18b9-482f-85b4-962ab1524f2a
+  initialGuid: cc33403a-18b9-482f-85b4-962ab1524f2a
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Italian
+  description: The Italian  language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 3
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: 1829809977641768415}
+  BaseLanguage: English
+  Name: Italian
+  IsSpeakable: 1
+  TTSVoiceName: Paola
+  speakerID: 0
+--- !u!114 &-3255142159428583862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  guid: bb353b00-31b4-4e82-9bf2-d80ca06b336b
+  initialGuid: bb353b00-31b4-4e82-9bf2-d80ca06b336b
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: English
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 7
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: -9033691681771783903}
+  BaseLanguage: English
+  Name: English
+  IsSpeakable: 1
+  TTSVoiceName: Ryan
+  speakerID: 0
+--- !u!114 &-3055123090960366542
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: 'Pashto '
+  m_EditorClassIdentifier: 
+  guid: b00ff210-cf01-4ab7-a45f-57c7f2052ad0
+  initialGuid: b00ff210-cf01-4ab7-a45f-57c7f2052ad0
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: 'Pashto '
+  description: The Pashto  language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 0
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: 1222315590844569827}
+  BaseLanguage: English
+  Name: Pashto
+  IsSpeakable: 0
+  TTSVoiceName: 
+  speakerID: 0
+--- !u!114 &-2997114992477476733
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Hello
+  m_EditorClassIdentifier: 
+  guid: b0f9a27c-b7af-4c5c-9b11-bdc16cdcc510
+  initialGuid: b0f9a27c-b7af-4c5c-9b11-bdc16cdcc510
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Hello
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 10
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Hello
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0645\u0631\u062D\u0628\u064B\u0627"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Hallo
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: Hola
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: Bonjour
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: Ciao
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: "Ol\xE1"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0633\u0644\u0627\u0645"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0633\u0644\u0627\u0645"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &-2848142041817856019
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Portuguese
+  m_EditorClassIdentifier: 
+  guid: cffb628d-1e2a-45fa-90e4-a84af15e8e61
+  initialGuid: cffb628d-1e2a-45fa-90e4-a84af15e8e61
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Portuguese
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 2
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Portuguese
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u064A\u0629"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Portugiesisch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "portugu\xE9s"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: portugais
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: portoghese
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: "Portugu\xEAs"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u067E\u0631\u062A\u063A\u0627\u0644\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u067E\u0648\u0631\u062A\u06AB\u0627\u0644\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &-1350252104040863371
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: SelectInterfaceLanguage
+  m_EditorClassIdentifier: 
+  guid: 06ac6803-5ccb-4469-999f-53a1eec614b2
+  initialGuid: 06ac6803-5ccb-4469-999f-53a1eec614b2
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: SelectInterfaceLanguage
+  description: 
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 9
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Select your interface language.
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u062D\u062F\u062F \u0644\u063A\u0629 \u0627\u0644\u0648\u0627\u062C\u0647\u0629
+      \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u0643."
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: "W\xE4hlen Sie die Sprache Ihrer Benutzeroberfl\xE4che aus."
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: Seleccione el idioma de su interfaz.
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: "S\xE9lectionnez la langue de votre interface."
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: Seleziona la lingua dell'interfaccia.
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: Selecione o idioma da sua interface.
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0632\u0628\u0627\u0646 \u0631\u0627\u0628\u0637 \u062E\u0648\u062F
+      \u0631\u0627 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646\u06CC\u062F."
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u062F \u062E\u067E\u0644 \u0627\u0646\u0679\u0631\u0641\u06CC\u0633
+      \u0698\u0628\u0647 \u063A\u0648\u0631\u0647 \u06A9\u0693\u0626."
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &-858104665847977517
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: Arabic
+  m_EditorClassIdentifier: 
+  guid: 99a5408b-cee1-48f1-868b-dfb25837bf6f
+  initialGuid: 99a5408b-cee1-48f1-868b-dfb25837bf6f
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Arabic
+  description: The arabic language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 6
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: -7801855125855122731}
+  BaseLanguage: English
+  Name: Arabic
+  IsSpeakable: 1
+  TTSVoiceName: Kareem
+  speakerID: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df0fd67eb910e83429ab00e1ef37014a, type: 3}
+  m_Name: DataBrain
+  m_EditorClassIdentifier: 
+  themeTemplate: {fileID: 0}
+  isInitialized: 0
+  data:
+    _objectList:
+    - type: CJacks.Language.LanguageMD, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      dataObjects:
+      - {fileID: 1222315590844569827}
+      - {fileID: 6246031270175906452}
+      - {fileID: 3606391798682527393}
+      - {fileID: 1829809977641768415}
+      - {fileID: -5089485957455121860}
+      - {fileID: 669648555756371464}
+      - {fileID: -7801855125855122731}
+      - {fileID: -3875600538031117007}
+      - {fileID: -9033691681771783903}
+    - type: CJacks.Language.LanguageOD, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      dataObjects:
+      - {fileID: -3055123090960366542}
+      - {fileID: -6236970398516791076}
+      - {fileID: 6154692504977641633}
+      - {fileID: -3674339716439428367}
+      - {fileID: -4861070701744114833}
+      - {fileID: 6233252430618956441}
+      - {fileID: -858104665847977517}
+      - {fileID: -3255142159428583862}
+      - {fileID: 6165288239043096873}
+    - type: Databrain.Localization.LocalizationManager, Databrain.Localization, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      dataObjects:
+      - {fileID: -6843659952921439456}
+    - type: Databrain.Localization.Localization, Databrain.Localization, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      dataObjects:
+      - {fileID: 963577603557915958}
+      - {fileID: 7665957765606489911}
+      - {fileID: -2848142041817856019}
+      - {fileID: -4595802196355766105}
+      - {fileID: -7722609558235377397}
+      - {fileID: 5297893935701102558}
+      - {fileID: 2526117473023547140}
+      - {fileID: 1047355796522995578}
+      - {fileID: 6498054845383525438}
+      - {fileID: -1350252104040863371}
+      - {fileID: -2997114992477476733}
+    _favoriteList: []
+  copyData:
+    _objectList: []
+    _favoriteList: []
+  firstColumnWidth: 200
+  secondColumnWidth: 240
+  selectedDataView: 0
+  runtimeLibrary: {fileID: -4049130021392015495}
+  runtimeLibraryGuid: 
+  runtimeLibraryFolderPath: 
+  initialLibrary: {fileID: 11400000}
+  selectedDataObject: {fileID: 6233252430618956441}
+  modules:
+  - {fileID: -8906374806576381737}
+  - {fileID: 6571708313693867150}
+  - {fileID: -7447101192454827217}
+  - {fileID: -4448311885300374001}
+  existingNamespaces:
+  - namespaceName: Databrain.Localization
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: LocalizationManager
+      typeAssemblyQualifiedName: Databrain.Localization.LocalizationManager, Databrain.Localization,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: Localization
+      typeAssemblyQualifiedName: Databrain.Localization.Localization, Databrain.Localization,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Examples
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: EnemyDataDemo
+      typeAssemblyQualifiedName: Databrain.Examples.EnemyDataDemo, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: AgentAIData
+      typeAssemblyQualifiedName: Databrain.Examples.AgentAIData, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: SaveLoadDemoDataBase
+      typeAssemblyQualifiedName: Databrain.Examples.SaveLoadDemoDataBase, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: MyOdinDataObject
+      typeAssemblyQualifiedName: Databrain.Examples.MyOdinDataObject, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: SaveLoadDemoData
+      typeAssemblyQualifiedName: Databrain.Examples.SaveLoadDemoData, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: AdvancedDemoDataBase
+      typeAssemblyQualifiedName: Databrain.Examples.AdvancedDemoDataBase, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Logic
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: GraphData
+      typeAssemblyQualifiedName: Databrain.Logic.GraphData, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: LogicGraph
+      typeAssemblyQualifiedName: Databrain.Logic.LogicGraph, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: SceneComponent
+      typeAssemblyQualifiedName: Databrain.Logic.SceneComponent, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: PlayerComponents
+      typeAssemblyQualifiedName: Databrain.Logic.PlayerComponents, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Events
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: BlackboardEvent
+      typeAssemblyQualifiedName: Databrain.Events.BlackboardEvent, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: DatabrainEvent
+      typeAssemblyQualifiedName: Databrain.Events.DatabrainEvent, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: LocalizationEvents
+      typeAssemblyQualifiedName: Databrain.Events.LocalizationEvents, Databrain.Localization,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: ExampleEvents
+      typeAssemblyQualifiedName: Databrain.Events.ExampleEvents, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: DatabrainGenericEvent`1
+      typeAssemblyQualifiedName: Databrain.Events.DatabrainGenericEvent`1, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: CJacks.Language
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: LanguageOD
+      typeAssemblyQualifiedName: CJacks.Language.LanguageOD, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: LanguageMD
+      typeAssemblyQualifiedName: CJacks.Language.LanguageMD, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  - namespaceName: Databrain.Blackboard
+    foldout: 0
+    hidden: 0
+    icon: 
+    existingTypes:
+    - typeName: BooleanVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.BooleanVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: FloatVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.FloatVariable, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: StringVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.StringVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: IntegerList
+      typeAssemblyQualifiedName: Databrain.Blackboard.IntegerList, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: Vector2Variable
+      typeAssemblyQualifiedName: Databrain.Blackboard.Vector2Variable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: FloatList
+      typeAssemblyQualifiedName: Databrain.Blackboard.FloatList, Databrain, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: BlackboardVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.BlackboardVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: BlackboardGenericVariable`1
+      typeAssemblyQualifiedName: Databrain.Blackboard.BlackboardGenericVariable`1,
+        Databrain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: IntegerVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.IntegerVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: PrefabVariable
+      typeAssemblyQualifiedName: Databrain.Blackboard.PrefabVariable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 0
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+    - typeName: Vector3Variable
+      typeAssemblyQualifiedName: Databrain.Blackboard.Vector3Variable, Databrain,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      runtimeSerialization: 1
+      tagsFilter: []
+      titlesFilter: []
+      valuesFilter: []
+  isRuntimeContainer: 0
+  useXOREncryption: 0
+  encryptionKey: 0
+  jsonFormatting: 0
+  hideDataObjectsByDefault: 1
+  tags: []
+  hierarchyTemplate: {fileID: 0}
+--- !u!114 &669648555756371464
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: German
+  m_EditorClassIdentifier: 
+  guid: 618fa0a9-f0d9-40d8-81d0-7b7eab4d72f0
+  initialGuid: 618fa0a9-f0d9-40d8-81d0-7b7eab4d72f0
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: German
+  description: The German  Language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 5
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/German_language
+  TTSLanguage: 0
+  ISO2ID: de
+  ISO3ID: ger
+  Name: German
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &963577603557915958
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Pashto
+  m_EditorClassIdentifier: 
+  guid: 28a0e464-089b-43fd-941b-e5349e39a8c9
+  initialGuid: 28a0e464-089b-43fd-941b-e5349e39a8c9
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Pashto
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 0
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Pashto
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0627\u0644\u0628\u0627\u0634\u062A\u0648"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Paschtu
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "past\xFAn"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: pachtou
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: Pashtu
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: pashto
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u067E\u0634\u062A\u0648"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u067E\u069A\u062A\u0648"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &1047355796522995578
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Arabic
+  m_EditorClassIdentifier: 
+  guid: 18322c4a-9c58-4633-a48d-6d946b991fac
+  initialGuid: 18322c4a-9c58-4633-a48d-6d946b991fac
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Arabic
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 7
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Arabic
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0639\u0631\u0628\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Arabisch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "\xE1rabe"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: arabe
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: arabo
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: "\xE1rabe"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0639\u0631\u0628\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0639\u0631\u0628\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &1222315590844569827
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: 'Pashto '
+  m_EditorClassIdentifier: 
+  guid: fbd9afbb-777b-45ef-af03-26ec622b87b1
+  initialGuid: fbd9afbb-777b-45ef-af03-26ec622b87b1
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: 'Pashto '
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 0
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/Pashto
+  TTSLanguage: 1
+  ISO2ID: ps
+  ISO3ID: pus
+  Name: 'Pashto '
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &1829809977641768415
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: Italian
+  m_EditorClassIdentifier: 
+  guid: 3d36daf9-43da-42d4-a05b-6ad13a3a8c0d
+  initialGuid: 3d36daf9-43da-42d4-a05b-6ad13a3a8c0d
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Italian
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 3
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/Italian_language
+  TTSLanguage: 1
+  ISO2ID: it
+  ISO3ID: ita
+  Name: Italian
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &2526117473023547140
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: German
+  m_EditorClassIdentifier: 
+  guid: 6a7a242d-24c4-459e-aac6-b9c7c01371ce
+  initialGuid: 6a7a242d-24c4-459e-aac6-b9c7c01371ce
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: German
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 6
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: German
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Deutsch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "Alem\xE1n"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: Allemand
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: tedesco
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: "Alem\xE3o"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0622\u0644\u0645\u0627\u0646\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u062C\u0631\u0645\u0646\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &3606391798682527393
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: Portuguese
+  m_EditorClassIdentifier: 
+  guid: 5b14e434-375d-46cd-9844-b08737a2d9c9
+  initialGuid: 5b14e434-375d-46cd-9844-b08737a2d9c9
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Portuguese
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 2
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/Portuguese_language
+  TTSLanguage: 1
+  ISO2ID: pr
+  ISO3ID: por
+  Name: Portuguese
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &5297893935701102558
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Spanish
+  m_EditorClassIdentifier: 
+  guid: 9fd55aaf-9352-4423-93ea-6ef9efd20315
+  initialGuid: 9fd55aaf-9352-4423-93ea-6ef9efd20315
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Spanish
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 5
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Spanish
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A\u0629"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Spanisch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "Espa\xF1ol"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: Espagnol
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: spagnolo
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: Espanhol
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0627\u0633\u067E\u0627\u0646\u06CC\u0627\u06CC\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0647\u0633\u067E\u0627\u0646\u06CC\u0647 \u0627\u06CC\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &6154692504977641633
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: Portuguese
+  m_EditorClassIdentifier: 
+  guid: ab72133b-8259-44cf-b126-bd7040d51d8a
+  initialGuid: ab72133b-8259-44cf-b126-bd7040d51d8a
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Portuguese
+  description: The Portuguese  language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 2
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: 3606391798682527393}
+  BaseLanguage: English
+  Name: Portuguese
+  IsSpeakable: 1
+  TTSVoiceName: "Tug\xE3o"
+  speakerID: 0
+--- !u!114 &6165288239043096873
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: Spanish
+  m_EditorClassIdentifier: 
+  guid: a5712129-d9c8-4243-bb32-8347ed44e8a0
+  initialGuid: a5712129-d9c8-4243-bb32-8347ed44e8a0
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Spanish
+  description: The spanish language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 8
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: -3875600538031117007}
+  BaseLanguage: English
+  Name: Spanish
+  IsSpeakable: 1
+  TTSVoiceName: Sharvard
+  speakerID: 0
+--- !u!114 &6233252430618956441
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18080a07ccf01684bb6a804b1d31c9a8, type: 3}
+  m_Name: German
+  m_EditorClassIdentifier: 
+  guid: 1a0c7e7d-0350-4dc7-ad6b-56d35f273e46
+  initialGuid: 1a0c7e7d-0350-4dc7-ad6b-56d35f273e46
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: German
+  description: The german  language
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 5
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  MetaData: {fileID: 669648555756371464}
+  BaseLanguage: English
+  Name: German
+  IsSpeakable: 1
+  TTSVoiceName: Thorsten
+  speakerID: 0
+--- !u!114 &6246031270175906452
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55b6a8c04dc129d43b4369c3cfae165d, type: 3}
+  m_Name: Persian
+  m_EditorClassIdentifier: 
+  guid: 18137d97-339c-4566-8e84-bc6e7fd05d95
+  initialGuid: 18137d97-339c-4566-8e84-bc6e7fd05d95
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Persian
+  description: This is a description of the newly created data entry.
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 1
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  WikipediaURL: https://en.wikipedia.org/wiki/Persian_language
+  TTSLanguage: 1
+  ISO2ID: fa
+  ISO3ID: fas
+  Name: Persian
+  GeneticClass: 
+  TypologicalClass: 
+--- !u!114 &6498054845383525438
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  guid: 3b547752-53cb-4d17-b892-bc883dab2721
+  initialGuid: 3b547752-53cb-4d17-b892-bc883dab2721
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: English
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 8
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: English
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0625\u0646\u062C\u0644\u064A\u0632\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: Englisch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: "Ingl\xE9s"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: Anglais
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: Inglese
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: "Ingl\xEAs"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0627\u0646\u06AF\u0644\u06CC\u0633\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0627\u0646\u06AB\u0644\u06CC\u0633\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+--- !u!114 &6571708313693867150
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 525216a1ae534884ebd6eb5b80c3da44, type: 3}
+  m_Name: ImportModule
+  m_EditorClassIdentifier: 
+  googleImportSettings:
+  - nameSpace: Databrain.Localization
+    googleShareURL: 
+    importType: 0
+    orderType: 0
+    googleWorksheets:
+    - worksheetTypeName: LocalizationManager
+      worksheetID: 
+    - worksheetTypeName: Localization
+      worksheetID: 
+  - nameSpace: Databrain.Examples
+    googleShareURL: 
+    importType: 0
+    orderType: 0
+    googleWorksheets:
+    - worksheetTypeName: EnemyDataDemo
+      worksheetID: 
+    - worksheetTypeName: AgentAIData
+      worksheetID: 
+    - worksheetTypeName: SaveLoadDemoDataBase
+      worksheetID: 
+    - worksheetTypeName: MyOdinDataObject
+      worksheetID: 
+    - worksheetTypeName: SaveLoadDemoData
+      worksheetID: 
+    - worksheetTypeName: AdvancedDemoDataBase
+      worksheetID: 
+  - nameSpace: Databrain.Logic
+    googleShareURL: 
+    importType: 0
+    orderType: 0
+    googleWorksheets:
+    - worksheetTypeName: GraphData
+      worksheetID: 
+    - worksheetTypeName: LogicGraph
+      worksheetID: 
+    - worksheetTypeName: SceneComponent
+      worksheetID: 
+    - worksheetTypeName: PlayerComponents
+      worksheetID: 
+  - nameSpace: Databrain.Events
+    googleShareURL: 
+    importType: 0
+    orderType: 0
+    googleWorksheets:
+    - worksheetTypeName: BlackboardEvent
+      worksheetID: 
+    - worksheetTypeName: DatabrainEvent
+      worksheetID: 
+    - worksheetTypeName: LocalizationEvents
+      worksheetID: 
+    - worksheetTypeName: ExampleEvents
+      worksheetID: 
+    - worksheetTypeName: DatabrainGenericEvent`1
+      worksheetID: 
+  - nameSpace: Databrain.Blackboard
+    googleShareURL: 
+    importType: 0
+    orderType: 0
+    googleWorksheets:
+    - worksheetTypeName: BooleanVariable
+      worksheetID: 
+    - worksheetTypeName: FloatVariable
+      worksheetID: 
+    - worksheetTypeName: StringVariable
+      worksheetID: 
+    - worksheetTypeName: IntegerList
+      worksheetID: 
+    - worksheetTypeName: Vector2Variable
+      worksheetID: 
+    - worksheetTypeName: FloatList
+      worksheetID: 
+    - worksheetTypeName: BlackboardVariable
+      worksheetID: 
+    - worksheetTypeName: BlackboardGenericVariable`1
+      worksheetID: 
+    - worksheetTypeName: IntegerVariable
+      worksheetID: 
+    - worksheetTypeName: PrefabVariable
+      worksheetID: 
+    - worksheetTypeName: Vector3Variable
+      worksheetID: 
+  - nameSpace: CJacks.Language
+    googleShareURL: 
+    importType: 0
+    orderType: 0
+    googleWorksheets:
+    - worksheetTypeName: LanguageMD
+      worksheetID: 
+    - worksheetTypeName: LanguageOD
+      worksheetID: 
+  csvImportSettings: []
+--- !u!114 &7665957765606489911
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f652536ea4a28b4c98702c288e55906, type: 3}
+  m_Name: Persian
+  m_EditorClassIdentifier: 
+  guid: 38727641-8773-48c4-a07b-27d5207b4000
+  initialGuid: 38727641-8773-48c4-a07b-27d5207b4000
+  runtimeIndexID: 
+  icon: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  title: Persian
+  description: Greeting
+  dependentDataObject: {fileID: 0}
+  tags: []
+  index: 1
+  relatedLibraryObject: {fileID: 11400000}
+  runtimeLibraryObject: {fileID: 0}
+  assignedGuid: 
+  isRuntimeInstance: 0
+  boxFoldout: 0
+  localizationType: 0
+  localizedData:
+  - language: English
+    iso: en
+    localizedString: Persian
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Arabic
+    iso: ar
+    localizedString: "\u0627\u0644\u0641\u0627\u0631\u0633\u064A\u0629"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: German
+    iso: de
+    localizedString: persisch
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Spanish
+    iso: es
+    localizedString: persa
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: French
+    iso: fr
+    localizedString: persan
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Italian
+    iso: it
+    localizedString: persiano
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Portuguese
+    iso: pt
+    localizedString: persa
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Persian
+    iso: fa
+    localizedString: "\u0641\u0627\u0631\u0633\u06CC"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
+  - language: Pashto
+    iso: ps
+    localizedString: "\u0641\u0627\u0631\u0633\u064A"
+    localizedAudio: {fileID: 0}
+    localizedTexture: {fileID: 0}
+    localizedSprite: {fileID: 0}
+    localizedGameObject: {fileID: 0}
+    localizedFontAsset: {fileID: 0}
