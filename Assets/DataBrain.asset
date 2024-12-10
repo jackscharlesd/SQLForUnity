@@ -1279,7 +1279,7 @@ MonoBehaviour:
   runtimeLibraryGuid: 
   runtimeLibraryFolderPath: 
   initialLibrary: {fileID: 11400000}
-  selectedDataObject: {fileID: 6233252430618956441}
+  selectedDataObject: {fileID: 7665957765606489911}
   modules:
   - {fileID: -8906374806576381737}
   - {fileID: 6571708313693867150}
@@ -1287,7 +1287,7 @@ MonoBehaviour:
   - {fileID: -4448311885300374001}
   existingNamespaces:
   - namespaceName: Databrain.Localization
-    foldout: 0
+    foldout: 1
     hidden: 0
     icon: 
     existingTypes:

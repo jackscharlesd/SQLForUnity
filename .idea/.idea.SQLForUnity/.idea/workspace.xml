@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../AlphabetGames/AlphabetLearn/Library/PackageCache/com.unity.ugui/Runtime/TMP/TMP_Settings.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LanguagePanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OptionsPanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections/Unity.Collections.Tests/UTF8ArrayUnsafeUtilityTests.cs" root0="SKIP_HIGHLIGHTING" />
@@ -101,7 +102,10 @@
       <workItem from="1731718074730" duration="306000" />
       <workItem from="1731718669721" duration="69000" />
       <workItem from="1731718922061" duration="920000" />
-      <workItem from="1731857227880" duration="16987000" />
+      <workItem from="1731857227880" duration="17591000" />
+      <workItem from="1732323483223" duration="2168000" />
+      <workItem from="1732500898421" duration="2088000" />
+      <workItem from="1732762077262" duration="1865000" />
     </task>
     <servers />
   </component>
